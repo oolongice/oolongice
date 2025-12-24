@@ -22,7 +22,4 @@
   </p>
 
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=oolongice&show_icons=true&theme=buefy&hide_border=true" alt="Stats" />
-  
   </div>
